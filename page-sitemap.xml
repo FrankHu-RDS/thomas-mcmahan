@@ -5,11 +5,11 @@
 		<lastmod>2021-05-27T00:17:32+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.thomasmcmahan.org/index.php/sample-page/</loc>
+		<loc>https://www.thomasmcmahan.org/sample-page/</loc>
 		<lastmod>2021-05-06T02:48:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.thomasmcmahan.org/index.php/about-us/</loc>
+		<loc>https://www.thomasmcmahan.org/about-us/</loc>
 		<lastmod>2021-05-12T00:48:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/namesakes.png</image:loc>
@@ -26,7 +26,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.thomasmcmahan.org/index.php/programs/</loc>
+		<loc>https://www.thomasmcmahan.org/programs/</loc>
 		<lastmod>2021-05-12T01:25:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/iStock-953674568.jpeg</image:loc>
@@ -40,30 +40,30 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.thomasmcmahan.org/index.php/impact-2/</loc>
+		<loc>https://www.thomasmcmahan.org/impact-2/</loc>
 		<lastmod>2021-05-12T01:37:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/IMG_3181-1.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/IMG_31801-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/IMG_3184-1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/IMG_3183-1.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/IMG_3181-1.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/IMG_3182-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/IMG_3184-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://www.thomasmcmahan.org/index.php/contact/</loc>
+		<loc>https://www.thomasmcmahan.org/contact/</loc>
 		<lastmod>2021-05-12T01:38:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://www.thomasmcmahan.org/index.php/donate/</loc>
+		<loc>https://www.thomasmcmahan.org/donate/</loc>
 		<lastmod>2021-07-30T16:29:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://www.thomasmcmahan.org/wp-content/uploads/2021/05/iStock-1076947060.jpeg</image:loc>
